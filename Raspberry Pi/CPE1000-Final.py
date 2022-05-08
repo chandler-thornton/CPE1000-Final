@@ -1,6 +1,8 @@
 import time
 from sense_hat import SenseHat, ACTION_PRESSED, ACTION_HELD, ACTION_RELEASED
 
+#Setup LED Matrix here
+
 start_time = time.time()
 laptime_current = 0
 laptime_all= []
